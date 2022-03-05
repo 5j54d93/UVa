@@ -1,3 +1,7 @@
 # UVa
-📥 Store my code to solve UVa's problem in C/C++. <br>
-🔗 https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=0
+
+My code to solve UVa problems in C/C++.
+
+## License：MIT
+
+This package is [MIT licensed](https://github.com/5j54d93/UVa/blob/main/LICENSE).
